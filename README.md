@@ -15,11 +15,13 @@
 ---
 
 ## 📌 Projetos em destaque
-- 🍽️ **Sistema de Pedidos de Restaurante** – App em Flutter integrado ao Firebase 
-- 🚀 **TCC – Plataforma de Empregabilidade (Em Desenvolvimento)** – App com IA para recomendações de cursos e simulação de entrevista com feedback
-- ...
+- 🍽️ **Sistema de Pedidos de Restaurante** – App em Flutter integrado ao Firebase  
+- 🚀 **TCC – Plataforma de Empregabilidade (Em Desenvolvimento)** – App com IA para recomendações de cursos e simulação de entrevista com feedback  
+- 🗜️ **Compressor e Descompressor Huffman em C** – Implementação completa do algoritmo de Huffman para compressão e descompressão de arquivos de multiplos formatos
 
-👉 Confira meus repositórios para ver mais projetos!  
+> ⚠️ Observação: Este repositório foi criado recentemente para consolidar meus projetos pessoais.  
+> Durante o período acadêmico, utilizávamos um perfil institucional que será desativado ao final do curso,  
+> portanto não há histórico de commits anteriores aqui.
 
 
 ## 🌐 Onde me encontrar
