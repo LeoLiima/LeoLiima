@@ -14,10 +14,10 @@
 
 ---
 
-## 📌 Projetos em destaque
-- 🍽️ **Sistema de Pedidos de Restaurante** – App em Flutter integrado ao Firebase  
+## 📌 Projetos em destaque 
 - 🚀 **TCC – Plataforma de Empregabilidade (Em Desenvolvimento)** – App com IA para recomendações de cursos e simulação de entrevista com feedback  
 - 🗜️ **Compressor e Descompressor Huffman em C** – Implementação completa do algoritmo de Huffman para compressão e descompressão de arquivos de multiplos formatos
+- 🛡️ **Detector de Fraudes em Transações com Cartão em Python (Em Desenvolvimento)** – Desenvolvimento de modelo de machine learning com algoritmo Ensemble learning para identificar e tentar prever fraudes em transações, com avaliação baseada em métricas técnicas e impacto financeiro da empresa.
 
 > ⚠️ Observação: Este repositório foi criado recentemente para consolidar meus projetos pessoais.  
 > Durante o período acadêmico, utilizávamos um perfil institucional que será desativado ao final do curso,  
