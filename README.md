@@ -22,7 +22,8 @@
 > ⚠️ Observação: Este repositório foi criado recentemente para consolidar meus projetos pessoais.  
 > Durante o período acadêmico, utilizávamos um perfil institucional que será desativado ao final do curso,  
 > portanto não há histórico de commits anteriores aqui.
-
+>
+> Projetos em que eu colaborei estão disponíveis na aba "Stars" 
 
 ## 🌐 Onde me encontrar
 - [💼 LinkedIn](https://www.linkedin.com/in/leonardo-ribeiro-gonzaga-de-lima-305842352/)  
