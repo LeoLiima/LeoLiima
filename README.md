@@ -22,7 +22,7 @@
 ---
 
 ## 📌 Projetos em destaque 
-- 🚀 **Projetos usando SpringBoot e Typescript** – Implementação de alguns desafios encontrados na internet para aumento de conhecimento no período de recesso 
+- 🚀 **Projetos usando SpringBoot e Typescript** – Implementação de alguns desafios encontrados na internet para aperfeiçoamento dessas tecnologias no período de recesso 
 - 🗜️ **Compressor e Descompressor Huffman em C** – Implementação completa do algoritmo de Huffman para compressão e descompressão de arquivos de multiplos formatos
 - 🛡️ **Detector de Fraudes em Transações com Cartão em Python** – Desenvolvimento de modelo de machine learning com algoritmo Ensemble learning para identificar e tentar prever fraudes em transações, com avaliação baseada em métricas técnicas e impacto financeiro da empresa.
 
