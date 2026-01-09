@@ -9,7 +9,7 @@
 
 🎓 Estudante do Colégio Técnico de Campinas (UNICAMP – COTUCA), último ano do curso técnico em Informática.  
 💻 Interessado em **Desenvolvimento FullStack**, especialmente com foco em **React, Java Spring Boot, Python e SQL**.  
-🚀 Buscando monha rrimeira vaga na área para aplicar conhecimentos, aprender com equipes experientes e crescer na área de tecnologia.  
+🚀 Buscando minha primeira vaga na área para aplicar conhecimentos, aprender com equipes experientes e crescer na área de tecnologia.  
 
 ---
 
